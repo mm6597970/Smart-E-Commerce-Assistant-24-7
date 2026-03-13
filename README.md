@@ -54,3 +54,8 @@ Autonomous Research: The AI agent will use web-browsing tools to fetch real-time
 Task Execution: It will be able to filter products based on real-time availability and user-specific constraints.
 
 Comparison Logic: Instead of a static summary, the agent will perform deep-dive comparisons across multiple browser tabs simultaneously to find the absolute best deal.
+
+![Home Page](image.png)
+![Home Page 1](image-1.png)
+![Ai Assistant](image-2.png)
+![Product Explorer](image-3.png)
